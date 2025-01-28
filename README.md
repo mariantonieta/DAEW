@@ -2,6 +2,6 @@
 
 | NOMBRE               | GITHUB                        |
 |----------------------|-------------------------------|
-| Nombre del compañero 1 | [GitHub 1](https://github.com/usuario1) |
-| Nombre del compañero 2 | [GitHub 2](https://github.com/usuario2) |
-| Nombre del compañero 3 | [GitHub 3](https://github.com/usuario3) |
+| Jaime | https://github.com/JaimeS-0  |
+| Geo |   https://github.com/GeoDSO  |
+| Paolo  | https://github.com/DRAKKO84 |
